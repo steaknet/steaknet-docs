@@ -1,12 +1,12 @@
 # Table of contents
 
 * [README](README.md)
-* [Welcome](docs/00-intro.md)
+* [What is SteakNet?](docs/00-intro.md)
 
 ## STEAKSOL
 
 * [What is STEAKSOL?](docs/01-steaksol/what-is-steaksol.md)
-* [How it works](docs/01-steaksol/how-it-works.md)
+* [Getting Started](docs/01-steaksol/how-it-works.md)
 * [Risks & Safety](docs/01-steaksol/risk-and-safety.md)
 
 ## $STEAK Token

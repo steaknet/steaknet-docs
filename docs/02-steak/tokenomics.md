@@ -8,11 +8,6 @@
     \* Validators with commission >10% were excluded from the airdrop.
 * **Emission Rewards:** **80%** of supply (**96B $STEAK**) distributed to **STEAK.NET SOL stakers** over **4 years**.
 
-### Emission Schedule (by year share of the 96B)
+### Rewards Emission Schedule (by year share of the 96B)
 
-| Year | Share | Approx. amount |
-| ---- | ----: | -------------: |
-| 1    |   36% |         34.56B |
-| 2    |   24% |         23.04B |
-| 3    |   12% |         11.52B |
-| 4    |    8% |          7.68B |
+<table><thead><tr><th width="82">Year</th><th width="100" align="right">Share</th><th width="117" align="right">Tokens (B)</th></tr></thead><tbody><tr><td>1</td><td align="right">36%</td><td align="right">34.56B</td></tr><tr><td>2</td><td align="right">24%</td><td align="right">23.04B</td></tr><tr><td>3</td><td align="right">12%</td><td align="right">11.52B</td></tr><tr><td>4</td><td align="right">8%</td><td align="right">7.68B</td></tr></tbody></table>

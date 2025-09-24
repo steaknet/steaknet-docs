@@ -1,3 +1,7 @@
+---
+icon: computer
+---
+
 # Integration Guide
 
 * Use the STEAKSOL token mint + program interfaces to read balances and exchange value.

@@ -1,4 +1,4 @@
-# How it works
+# 🔥 Getting Started
 
 1. **Stake SOL**\
    Swap your SOL to STEAKSOL via the SteakNet site. Your SOL is delegated to the SteakNet validator.

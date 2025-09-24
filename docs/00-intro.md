@@ -1,4 +1,4 @@
-# What is SteakNet?
+# 🍽️ What is SteakNet?
 
 SteakNet is a Solana validator and staking ecosystem that makes staking fun, transparent, and rewarding.
 

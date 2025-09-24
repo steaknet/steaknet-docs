@@ -1,3 +1,7 @@
+---
+icon: arrows-rotate-reverse
+---
+
 # Swap & Unstake
 
 On the SteakNet site:

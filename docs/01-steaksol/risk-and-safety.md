@@ -1,4 +1,4 @@
-# Risks & Safety
+# ⚠️ Risks & Safety
 
 * **Validator risk:** If the validator performs poorly or is slashed (rare on Solana), rewards may be lower.
 * **Protocol risk:** Smart contract / program bugs can exist. Review code, use at your own discretion.

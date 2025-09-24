@@ -1,4 +1,4 @@
-# What is STEAKSOL?
+# 🧑‍🍳 What is STEAKSOL?
 
 **STEAKSOL** is a liquid staking token representing SOL delegated to the SteakNet validator.
 

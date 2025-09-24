@@ -1,4 +1,4 @@
-# Tokenomics
+# 🪙 Tokenomics
 
 * **Total Supply:** 120B $STEAK
 * **Launch:** Christmas Day 2024

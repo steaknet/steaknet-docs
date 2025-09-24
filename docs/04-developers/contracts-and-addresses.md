@@ -1,3 +1,7 @@
+---
+icon: memo-circle-info
+---
+
 # Contracts & Addresses
 
 > **Always verify** addresses on official channels before use.

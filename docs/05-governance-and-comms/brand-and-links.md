@@ -1,3 +1,7 @@
+---
+icon: copyright
+---
+
 # Brand & Links
 
 * Website: https://steak.net/

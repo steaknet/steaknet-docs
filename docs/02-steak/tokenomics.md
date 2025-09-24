@@ -1,12 +1,14 @@
 # Tokenomics
 
-* **Total Supply:** **120,000,000,000 $STEAK**.
-* **Airdrop (Fair Launch):** **20%** of supply (24B) airdropped on **Dec 25, 2024**
-  * **9%** → stakers at **STEAK.NET**
-  * **10%** → stakers across any of Solana’s \~1,200+ validators
-  * **1%** → the validators themselves\*\
-    \* Validators with commission >10% were excluded from the airdrop.
-* **Emission Rewards:** **80%** of supply (**96B $STEAK**) distributed to **STEAK.NET SOL stakers** over **4 years**.
+* **Total Supply:** 120B $STEAK
+* **Launch:** Christmas Day 2024
+* **Fair Launch Airdrop (20% / 24B):**
+  * 9% → SteakNet stakers
+  * 10% → stakers across all Solana validators
+  * 1% → validators (excluding >10% commission)
+* **Emission Rewards (80% / 96B):**
+  * Distributed to SteakNet stakers across 4 years.
+  * Rewards decline yearly to favor early adopters while maintaining long-term sustainability.
 
 ### Rewards Emission Schedule (by year share of the 96B)
 

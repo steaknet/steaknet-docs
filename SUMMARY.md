@@ -13,7 +13,7 @@
 
 * [What is $STEAK?](docs/02-steak/what-is-steak.md)
 * [Tokenomics](docs/02-steak/tokenomics.md)
-* [Locks & Emissions](docs/02-steak/locks-and-emissions.md)
+* [Token Locks](docs/02-steak/locks-and-emissions.md)
 * [STEAK FAQ](docs/02-steak/faq.md)
 
 ## Using SteakNet

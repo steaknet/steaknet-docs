@@ -2,8 +2,7 @@
 
 > **Always verify** addresses on official channels before use.
 
-- **STEAKSOL token mint:** `TBD`
-- **Key program IDs:** `TBD`
-- **Validator identity:** `TBD`
-
-> Fill these once finalized. Keep this doc the canonical source.
+* **STEAKSOL token mint:** sctmqBfQtZj76PaLmepQ7Xskpu8LNMyWsXqFYAuihML
+* **Validator identity:** sTEAKPk59EtPPbixCweyv6oRLNCDEE8pnnef6gUfbiW
+* **Validator vote account:** STeaKrJdxdPMww27XJsjRBfrzqfjFT1BxotgQtFyDgx
+* **$STEAK token mint:** STEAK3frqdoKybo3R8LU85BcfajYd7dVEHiYVBcD3rG

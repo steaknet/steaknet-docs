@@ -10,4 +10,4 @@ icon: shield-check
 
 **Official support**
 
-* Discord: https://discord.gg/steaknet
+* Discord: [https://discord.gg/steaknet](https://discord.gg/steaknet)

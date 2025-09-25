@@ -3,7 +3,7 @@
 $STEAK emission tranches are **time-locked** using Jupiter Locks to align releases with the 4-year emission plan.\
 Locks make tokens **accessible for airdrops** when due; **they are not sell commitments**.
 
-Lock viewer: https://lock.jup.ag/token/STEAK3frqdoKybo3R8LU85BcfajYd7dVEHiYVBcD3rG
+Lock viewer: [https://lock.jup.ag/token/STEAK3frqdoKybo3R8LU85BcfajYd7dVEHiYVBcD3rG](https://lock.jup.ag/token/STEAK3frqdoKybo3R8LU85BcfajYd7dVEHiYVBcD3rG)
 
 > Below is the current high-level lock table (token percentages are of total supply):
 

@@ -1,7 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [🍽️ What is SteakNet?](docs/00-intro.md)
+* [🍽️ What is SteakNet?](README.md)
 
 ## STEAKSOL
 
@@ -31,3 +30,4 @@
 
 * [Security & Support](docs/05-governance-and-comms/security-and-support.md)
 * [Brand & Links](docs/05-governance-and-comms/brand-and-links.md)
+* [README](governance-and-comms/readme.md)

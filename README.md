@@ -1,15 +1,23 @@
----
-hidden: true
----
+# 🍽️ What is SteakNet?
 
-# README
+SteakNet is a Solana validator and staking ecosystem that makes staking fun, transparent, and rewarding.
 
-This repository powers the public documentation for **SteakNet** via GitBook (sync from GitHub).\
-Source of truth is **GitHub**; GitBook renders and publishes.
+* **Validator Service:** Professionally run with uptime and decentralization as priorities.
+* **STEAKSOL:** A liquid staking token (LST) tied to staked SOL, earning validator yield + bonus rewards.
+* **$STEAK:** A fair-launch community reward token, with no team allocations or VC bags.
 
-* Website: https://steak.net
-* Discord: https://discord.gg/steaknet
-* Telegram: https://t.me/steaknet
-* Twitter: https://x.com/steaknet
 
-> Editing flow: open a PR to modify files in `/docs` and `SUMMARY.md`. When changes land on `main`, GitBook updates automatically.
+
+**Mission:**
+
+To strengthen Solana by rewarding loyal stakers and building a fun, steak-themed culture around staking.
+
+
+
+**TL;DR**
+
+* Stake SOL → receive STEAKSOL (liquid staking, redeemable).
+* Each epoch, STEAKSOL’s exchange rate rises as validator rewards accrue.
+* Loyal stakers periodically receive **$STEAK** on top, aligning incentives as SteakNet grows together with the community.
+
+> Non-custodial. Your keys, your coins.

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🪙 Tokenomics
 
 * **Total Supply:** 120B $STEAK

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🔒 Token Locks
 
 $STEAK emission tranches are **time-locked** using Jupiter Locks to align releases with the 4-year emission plan.\

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🥩 What is $STEAK?
 
 **$STEAK** is SteakNet’s **community reward token**.\

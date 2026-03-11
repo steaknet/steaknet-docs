@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ❓ STEAK FAQ
 
 ### Where’s the team allocation?
